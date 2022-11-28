@@ -18,7 +18,7 @@ function SigninA() {
 
     else if(check.includes("@") && checkP.length > 1) {
         alert("Sending you to another website");
-        window.open("http://127.0.0.1:5500/more.html");
+        window.open("https://ar15064.github.io/SecondPage/");
 
 
     }
