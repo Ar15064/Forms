@@ -1,0 +1,62 @@
+body {
+    background-color: pink;
+}
+
+nav.top {
+    border: groove;
+    height: 50px;
+    background-color: black;
+    margin-top: -10px;
+    border-color: transparent;
+
+    
+}
+
+
+.logoBackground {
+    border: groove;
+    background-color: black;
+   
+}
+
+div.signinContainer {
+
+
+    justify-content: center;
+    display: flex;
+    margin-top: 450px;
+
+}
+
+
+
+.blah {
+    margin-left: 10px;
+}
+
+input.blah2 {
+    margin-left: 30px;
+}
+
+div.Submit {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.passwordT {
+    margin-top: 30px;
+    margin-left: 16px;
+}
+
+fieldset {
+    border: groove;
+    border-radius: 15px;
+    padding: 30px 6px;
+    height: 120px;
+    color: black;
+    
+}
+
+fieldset.SignIn > div.Submit {
+    
+}
