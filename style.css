@@ -24,7 +24,7 @@ div.signinContainer {
 
     justify-content: center;
     display: flex;
-    margin-top: 450px;
+    margin-top: 5%;
 
 }
 
@@ -59,4 +59,14 @@ fieldset {
 
 fieldset.SignIn > div.Submit {
     
+}
+
+
+.help {
+    border: groove;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10%;
+    width: 300px;
+    text-align: center;
 }
